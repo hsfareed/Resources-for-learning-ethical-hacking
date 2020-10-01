@@ -97,6 +97,9 @@ Name    |    Description
 ## Courses
 
 1.	[Computer Systems Security, MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
+2. [cisco's cources](https://www.netacad.com/courses/cybersecurity)
+3.[cybrary](https://www.cybrary.it/catalog/cybersecurity/)
+4.[hackers academy](https://hackersacademy.com/)
 
 For those who want to do CEH, the following links are for you.	
 2. [CBT Nuggets CEH Training](http://goo.gl/JuW85U)
@@ -150,7 +153,9 @@ Now let’s get Towards YouTube Channel Links... These Channels are Shared By Ha
 20. [Penetration Testing in Linux](https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA)
 21. [Hussnain Fareed](https://www.youtube.com/channel/UCbq5fgcqUz-PlMs3RCOUrXw)
 22. [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
-
+23. [ZAID](https://www.youtube.com/user/zaidsabeeh)
+24. [vabs tutorial](https://www.youtube.com/channel/UCa0wCQEB8CRKzjJV2GZ_EzA)
+25. [the cyber mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 Any Channel Link Missing? Kindly add it in Comments 
 
 ### Forums
